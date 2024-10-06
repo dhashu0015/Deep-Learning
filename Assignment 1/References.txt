@@ -1,0 +1,4 @@
+https://psychology.stackexchange.com/questions/28672/is-a-neurons-information-processing-more-complex-than-a-perceptron#:~:text=Therefore%20a%20neuron's%20information%20processing,happens%20at%20different%20%22phases%22.
+https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/
+https://www.sciencedirect.com/science/article/pii/S0896627321005018
+https://en.wikipedia.org/wiki/Biological_neuron_model
